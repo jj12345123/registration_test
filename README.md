@@ -1,0 +1,2 @@
+# registration_test
+test
